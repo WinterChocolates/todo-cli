@@ -1,0 +1,4 @@
+todo/__pycache__/*
+todo.json
+todo.txt
+.vscode/settings.json
