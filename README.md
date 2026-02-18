@@ -82,5 +82,3 @@ python todo.py --help
 所有任务数据保存在当前目录下的 `todo.json` 文件中。
 
 ## 📝 许可证
-
-MIT License
